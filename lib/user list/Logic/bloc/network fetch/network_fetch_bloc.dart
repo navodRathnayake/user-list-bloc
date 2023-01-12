@@ -1,6 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
 
+import '../../../data/model/list_model.dart';
+
 part 'network_fetch_event.dart';
 part 'network_fetch_state.dart';
 
